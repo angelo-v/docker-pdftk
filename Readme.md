@@ -4,4 +4,4 @@ Containerized version of [pdftk](https://pkgs.alpinelinux.org/package/edge/commu
 
 ## Usage
 
-docker run --rm -v $(pwd):/files aveltens/pdftk --help
+    docker run --rm -v $(pwd):/files aveltens/pdftk --help
