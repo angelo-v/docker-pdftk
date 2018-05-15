@@ -4,5 +4,4 @@ RUN apk --no-cache add pdftk
 
 WORKDIR /files
 
- ENTRYPOINT ["pdftk"]
-
+ENTRYPOINT ["pdftk"]
